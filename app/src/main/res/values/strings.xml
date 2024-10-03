@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">shopping</string>
+    <string name="intro_title">Step into your <font color="#8A2BE2">Music\n Your Music Your Way</font> </string>
+    <string name="intro_text">Browse Your Favourite Musical Instrument\nGet Your Own Instrument\nFree Instrument, Free Shipping</string>
+    <string name="register_signin">Dont have an account? <font color="#6033ba">Register Here</font></string>
+    <string name="login_signin">Already have an account? <font color="#6033ba">Sign In</font></string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

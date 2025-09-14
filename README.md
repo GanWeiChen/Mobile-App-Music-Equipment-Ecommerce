@@ -22,3 +22,5 @@ Tech Used
 - Authentication: Firebase Authentication
 - Storage: Firebase Storage (for product details)
 - UI/UX: XML in Android studio
+  
+=====================================================================================
